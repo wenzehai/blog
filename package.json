@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "a personal blog website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenzehai/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Andy Wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenzehai/blog/issues"
+  },
+  "homepage": "https://github.com/wenzehai/blog#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
